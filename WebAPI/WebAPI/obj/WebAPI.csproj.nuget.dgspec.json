@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VersionControl\\GitHub\\WebAPI\\WebAPI\\WebAPI.csproj": {}
+    "C:\\VersionControl\\GitHub\\AngularLogin\\WebAPI\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\VersionControl\\GitHub\\WebAPI\\WebAPI\\WebAPI.csproj": {
+    "C:\\VersionControl\\GitHub\\AngularLogin\\WebAPI\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VersionControl\\GitHub\\WebAPI\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\VersionControl\\GitHub\\AngularLogin\\WebAPI\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\VersionControl\\GitHub\\WebAPI\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\VersionControl\\GitHub\\AngularLogin\\WebAPI\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\avtimch1.ADMSK\\.nuget\\packages\\",
-        "outputPath": "C:\\VersionControl\\GitHub\\WebAPI\\WebAPI\\obj\\",
+        "outputPath": "C:\\VersionControl\\GitHub\\AngularLogin\\WebAPI\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\avtimch1.ADMSK\\AppData\\Roaming\\NuGet\\NuGet.Config",
